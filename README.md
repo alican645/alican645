@@ -38,8 +38,6 @@
 | **[PivotForge](https://github.com/alican645/PivotForge)** | Dependency-light pivot table engine + ASP.NET Core UI. A free alternative to paid grid components. Expression-tree accessors, drag-and-drop designer, virtual scrolling, raw OpenXML Excel export. |
 | **[EF Core Terminal UI](https://github.com/alican645/EntityFrameworkUI)** | `efui` — an interactive terminal UI for EF Core migrations. No more long `dotnet ef` commands. |
 | **[Agent Workshop](https://github.com/alican645/agent-workshop)** | macOS app that turns Claude Code sessions into a 3D robot workshop, with floating terminals and answer-from-the-scene prompts. |
-| **[app-store-screenshots](https://github.com/alican645/app-store-screenshots)** | End-to-end App Store screenshot creation using AI. |
-| **[claude-token-efficient](https://github.com/alican645/claude-token-efficient)** | One `CLAUDE.md` that keeps Claude's answers terse on heavy workflows. |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alican645/agent-workshop/main/docs/images/workshop.gif" width="720" alt="Agent Workshop">
